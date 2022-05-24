@@ -1,4 +1,4 @@
-# GoogleTest
+# GoogleTest by Nurtilek
 
 ### Announcements
 
